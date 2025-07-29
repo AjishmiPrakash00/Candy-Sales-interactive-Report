@@ -44,10 +44,3 @@ The project uses a star-schema model with the following tables:
 
 ---
 
-## 🚀 Getting Started
-
-1. Download the `.pbix` file from this repo.
-2. Open with **Power BI Desktop** (free download).
-3. Explore or modify the dashboard as needed.
-
----
