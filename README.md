@@ -39,7 +39,8 @@ The project uses a star-schema model with the following tables:
 
 ## 📸 Screenshots
 
-_Add relevant screenshots of your dashboard here_
+<img width="1304" height="734" alt="candy sales" src="https://github.com/user-attachments/assets/f5514e60-7df5-44ec-b205-4ff7f94261a2" />
+
 
 ---
 
